@@ -1,0 +1,2 @@
+-- The following query identifies the top 5 most popular pieces of content 
+-- consumed by users in a given week

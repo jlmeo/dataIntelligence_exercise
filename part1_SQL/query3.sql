@@ -1,0 +1,2 @@
+-- The following query returns the top 5 pieces of content from each
+-- content type category for this selected by only active users

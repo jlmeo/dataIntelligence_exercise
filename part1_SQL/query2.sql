@@ -1,0 +1,2 @@
+-- The following query identifies the total number of unique weekly
+-- active users for the latest full week
