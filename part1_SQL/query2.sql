@@ -6,7 +6,7 @@
 -- EXPECTED OUTPUT:  count_of_WAU (INT)
 
 
-SELECT COUNT(DISTINCT(Ads_User_Id)) count_wau
+SELECT COUNT(DISTINCT(Ads_User_Id)) as count_wau
 FROM Ad_service_interaction_data c
 INNER JOIN
 (
